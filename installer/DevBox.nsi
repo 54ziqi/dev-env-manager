@@ -41,7 +41,7 @@ VIAddVersionKey "OriginalFilename"  "DevBox-Setup.exe"
 
 ; --- 欢迎页 ---
 !define MUI_WELCOMEPAGE_TITLE "欢迎使用开发环境管理器安装向导"
-!define MUI_WELCOMEPAGE_TEXT "本向导将引导您完成开发环境管理器的安装。\r\n\r\n开发环境管理器是一个 Windows 多版本开发环境管理工具，支持 Python、Node.js、Java 等多种运行时环境的安装与切换管理。\r\n\r\n版本 1.0.0 · 非商业使用许可 · © 2026 子柒\r\n\r\n点击“下一步”继续，或点击“取消”退出安装。"
+!define MUI_WELCOMEPAGE_TEXT "本向导将引导您完成开发环境管理器的安装。\r\n\r\n开发环境管理器是一个 Windows 多版本开发环境管理工具，支持 Python、Node.js、Java 等多种运行时环境的安装与切换管理。\r\n\r\n版本 1.0.0 · PolyForm Noncommercial 许可 · © 2026 子柒\r\n\r\n点击“下一步”继续，或点击“取消”退出安装。"
 
 ; --- 安装页 ---
 !define MUI_INSTFILESPAGE_ABORTHEADER_TEXT "安装已中止"

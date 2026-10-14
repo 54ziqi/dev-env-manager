@@ -3,7 +3,7 @@
 > A graphical tool to download, install and switch **Java / Node.js / Python / PHP / Maven / MySQL / Redis** on Windows, with multi-instance service management for MySQL and Redis.
 
 - **Author**: 子柒 (Ziqi)
-- **License**: [Non-Commercial Use License](./LICENSE)
+- **License**: [PolyForm Noncommercial 1.0.0](./LICENSE)
 - **Platform**: Windows 10 / 11 (x64)
 - **Version**: 1.0.0
 - **Tech stack**: Python 3 (standard library + tkinter only) · PyInstaller · NSIS · Authenticode signing
@@ -131,6 +131,6 @@ D:\环境管理\data\
 
 ## 📝 License
 
-This project is licensed under the [Non-Commercial Use License](./LICENSE): free for research and personal use, commercial use prohibited. Contact the copyright holder for a commercial license.
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](./LICENSE): free for research, personal and other noncommercial use; commercial use prohibited. Contact the copyright holder for a commercial license.
 
 © 2026 子柒 (Ziqi)

@@ -136,7 +136,7 @@ DEFAULT_THEME = "light"
 APP_NAME = "开发环境管理器 (DevBox)"
 APP_VERSION = "1.0.0"
 APP_AUTHOR = "子柒"
-APP_LICENSE = "Non-Commercial Use License"
+APP_LICENSE = "PolyForm Noncommercial License 1.0.0"
 APP_COPYRIGHT = "© 2026 子柒"
 
 # 中文字体候选（依次回退）

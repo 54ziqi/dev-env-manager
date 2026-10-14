@@ -1,28 +1,167 @@
-非商业使用许可证 (Non-Commercial Use License)
+PolyForm Noncommercial License 1.0.0
+（PolyForm 非商业使用许可证 1.0.0）
 
-Copyright (c) 2026 子柒
+Required Notice: Copyright 子柒 (https://github.com/54ziqi/dev-env-manager)
 
-## 1. 许可授予
-在遵守本许可证全部条款的前提下，版权人授予任何个人与组织在非商业前提下使用、复制、修改、分发本软件及其文档（以下简称"软件"）的权利。
+---
 
-## 2. 允许的使用方式
-以下使用方式无需额外授权，但须同时遵守第 3 条义务：
-- 学术研究与学习：科研、教学、实验、学术论文等非商业用途；
-- 个人自用：个人学习、研究、测试及内部非营利性使用。
+## 英文原文 / Official English Text
 
-## 3. 使用义务
-- 任何再分发须保留本版权声明与本许可证全文，并随附本许可证副本；
-- 基于本软件的修改、衍生或二次分发作品，仍在本许可证约束范围内。
+# PolyForm Noncommercial License 1.0.0
 
-## 4. 禁止的商业化使用
-未经版权人事先书面许可，任何人不得将本软件或其任何部分用于商业目的，包括但不限于：
-- 销售、出租、转售或以任何方式直接或间接获取经济利益；
-- 作为商业产品、服务、咨询或外包交付的一部分对外提供；
-- 在经营性公司、机构内部以营利为目的的部署、运行或使用；
-- 其他任何直接或间接的商业化利用。
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-## 5. 商业授权
-如有商业化使用需求，请事先联系版权人获取商业授权许可。
+## Acceptance
 
-## 6. 免责声明
-本软件按"现状"提供，不附带任何明示或默示的担保，包括但不限于适销性、特定用途适用性与不侵权担保。任何情况下，版权人均不对因使用本软件所产生的任何索赔、损害或其他责任负责。
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose. However, you may only distribute the software according to Distribution License and make changes or new works based on the software according to Changes and New Works License.
+
+## Distribution License
+
+The licensor grants you an additional copyright license to distribute copies of the software. Your license to distribute covers distributing the software with changes and new works permitted by Changes and New Works License.
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.
+
+## Changes and New Works License
+
+The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+
+## Patent License
+
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+
+## Noncommercial Purposes
+
+Any noncommercial purpose is a permitted purpose.
+
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+
+## Noncommercial Organizations
+
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+
+## Fair Use
+
+You may have "fair use" rights for the software under the law. These terms do not limit them.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else. These terms do not imply any other licenses.
+
+## Patent Defense
+
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice. Otherwise, all your licenses end immediately.
+
+## No Liability
+
+**As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.**
+
+## Definitions
+
+The *licensor* is the individual or entity offering these terms, and the *software* is the software the licensor makes available under these terms.
+
+*You* refers to the individual or entity agreeing to these terms.
+
+*Your company* is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization. *Control* means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.
+
+*Your licenses* are all the licenses granted to you for the software under these terms.
+
+*Use* means anything you do with the software requiring one of your licenses.
+
+---
+
+## 中文译文 / Chinese Translation
+
+# PolyForm 非商业使用许可证 1.0.0
+
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
+
+## 接受条款
+
+要依据本条款获得任何许可，你必须将本条款同时作为严格的义务和所有许可的条件予以接受。
+
+## 版权许可
+
+许可方授予你一项软件版权许可，使你可以为任何许可目的，对本软件实施任何若非经授权即会侵犯许可方版权的行为。但是，你只能依据「分发许可」分发本软件，并只能依据「修改与新作品许可」基于本软件进行修改或创作新作品。
+
+## 分发许可
+
+许可方额外授予你分发本软件副本的版权许可。你的分发许可涵盖分发经「修改与新作品许可」允许的带修改内容和新作品的软件。
+
+## 通知义务
+
+你必须确保任何从你处获得本软件任意部分副本的人，同时获得本条款的副本或上述 URL，以及许可方随软件提供的、以 `Required Notice:` 开头的所有纯文本行的副本。
+
+## 修改与新作品许可
+
+许可方额外授予你版权许可，允许你为任何许可目的基于本软件进行修改和创作新作品。
+
+## 专利许可
+
+许可方授予你一项针对本软件的专利许可，涵盖许可方能够许可（或将来能够许可）且你因使用本软件而会侵权的专利权利要求。
+
+## 非商业目的
+
+任何非商业目的均属于许可目的。
+
+## 个人用途
+
+出于促进公共知识的研究、实验与测试，以及个人学习、私人娱乐、业余爱好、个人追求或宗教活动等个人用途，且无任何预期商业应用者，属于许可目的之使用。
+
+## 非商业组织
+
+任何慈善组织、教育机构、公共研究机构、公共安全或卫生组织、环境保护组织或政府机构的使用，无论其资金来源或资金所附带义务如何，均属于许可目的之使用。
+
+## 合理使用
+
+你依据法律可能对软件享有"合理使用"权利。本条款不限制这些权利。
+
+## 无其他权利
+
+本条款不允许你向任何人再许可或转让你的任何许可，也不阻止许可方向任何人授予许可。本条款不暗示任何其他许可。
+
+## 专利抗辩
+
+若你就本软件侵犯或促成侵犯任何专利提出任何书面主张，则依据本条款授予你的软件专利许可立即终止。若你的公司提出此类主张，则代表你公司进行工作的专利许可立即终止。
+
+## 违约
+
+首次收到书面通知，告知你违反了上述任一条款，或对本软件实施了不在你许可范围内的行为时，若你能在收到通知后 32 天内完全遵守本条款，并采取切实措施纠正过往违约，你的许可仍可继续。否则，你的所有许可立即终止。
+
+## 不承担责任
+
+**在法律允许的范围内，本软件按"现状"提供，不含任何担保或条件；在任何形式的法律索赔下，许可方均不就因本条款或本软件的使用或性质所产生的任何损害对你承担责任。**
+
+## 定义
+
+*许可方（licensor）* 指提供本条款的个人或实体；*软件（software）* 指许可方依据本条款提供的软件。
+
+*你（You）* 指同意本条款的个人或实体。
+
+*你的公司（Your company）* 指你为之工作的任何法人实体、独资企业或其他组织，以及对该组织有控制权、受其控制或与其共同受控的所有组织。*控制（Control）* 指实质上拥有某实体全部资产，或通过表决、合同或其他方式拥有指导其管理与政策的权力。控制可以是直接的，也可以是间接的。
+
+*你的许可（Your licenses）* 指依据本条款授予你的、针对本软件的所有许可。
+
+*使用（Use）* 指你以需要任一许可的方式对本软件实施的任何行为。
+
+---
+
+## 许可目的摘要 / Summary of Permitted Purposes
+
+- ✅ 允许：学术研究、实验与测试、个人学习、私人娱乐、业余爱好、个人追求等**非商业用途**；慈善、教育、公共研究、公共安全/卫生、环保、政府等**非商业组织**使用。
+- 🚫 禁止：**任何商业化使用**。如需商用，请另行联系版权人获取商业授权。
+- 分发时须保留本条款全文或其 URL，并随附 `Required Notice` 通知行。
+- 按"现状"提供，无担保，许可方不承担任何责任。
+
+© 2026 子柒 (ziqi)
