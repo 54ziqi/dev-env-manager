@@ -1,21 +1,28 @@
-MIT License
+非商业使用许可证 (Non-Commercial Use License)
 
 Copyright (c) 2026 子柒
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. 许可授予
+在遵守本许可证全部条款的前提下，版权人授予任何个人与组织在非商业前提下使用、复制、修改、分发本软件及其文档（以下简称"软件"）的权利。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. 允许的使用方式
+以下使用方式无需额外授权，但须同时遵守第 3 条义务：
+- 学术研究与学习：科研、教学、实验、学术论文等非商业用途；
+- 个人自用：个人学习、研究、测试及内部非营利性使用。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 3. 使用义务
+- 任何再分发须保留本版权声明与本许可证全文，并随附本许可证副本；
+- 基于本软件的修改、衍生或二次分发作品，仍在本许可证约束范围内。
+
+## 4. 禁止的商业化使用
+未经版权人事先书面许可，任何人不得将本软件或其任何部分用于商业目的，包括但不限于：
+- 销售、出租、转售或以任何方式直接或间接获取经济利益；
+- 作为商业产品、服务、咨询或外包交付的一部分对外提供；
+- 在经营性公司、机构内部以营利为目的的部署、运行或使用；
+- 其他任何直接或间接的商业化利用。
+
+## 5. 商业授权
+如有商业化使用需求，请事先联系版权人获取商业授权许可。
+
+## 6. 免责声明
+本软件按"现状"提供，不附带任何明示或默示的担保，包括但不限于适销性、特定用途适用性与不侵权担保。任何情况下，版权人均不对因使用本软件所产生的任何索赔、损害或其他责任负责。

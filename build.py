@@ -225,7 +225,7 @@ _README_TXT = (
     "  - README.en.md   English version\r\n"
     "  - LICENSE        开源许可\r\n\r\n"
     "开发者：子柒\r\n"
-    "许可证：MIT License\r\n"
+    "许可证：Non-Commercial Use License\r\n"
     "版本：1.0.0\r\n"
 )
 

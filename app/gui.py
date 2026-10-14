@@ -136,7 +136,7 @@ DEFAULT_THEME = "light"
 APP_NAME = "开发环境管理器 (DevBox)"
 APP_VERSION = "1.0.0"
 APP_AUTHOR = "子柒"
-APP_LICENSE = "MIT License"
+APP_LICENSE = "Non-Commercial Use License"
 APP_COPYRIGHT = "© 2026 子柒"
 
 # 中文字体候选（依次回退）
@@ -788,11 +788,11 @@ class App:
     # ------------------------------------------------------------------ #
 
     def _show_about(self):
-        """弹出「关于」：展示版本号、开发者与 MIT 许可/版权信息。"""
+        """弹出「关于」：展示版本号、开发者与许可证/版权信息。"""
         messagebox.showinfo(
             "关于",
             "%s\n\n版本：%s\n开发者：%s\n许可证：%s\n%s\n\n"
-            "数据目录：D:\\环境管理\\data\n本程序开源，欢迎在 MIT 许可下使用与分发。"
+            "数据目录：D:\\环境管理\\data\n本程序开源，允许研究与自用，禁止商业化使用。"
             % (APP_NAME, APP_VERSION, APP_AUTHOR, APP_LICENSE, APP_COPYRIGHT),
             parent=self.root,
         )
@@ -829,7 +829,7 @@ class App:
         ttk.Label(
             title_row, text="多版本开发环境管理器", style="Subtitle.TLabel"
         ).pack(side="left", padx=(12, 0), pady=(6, 0))
-        # 右侧：版本号 + 「关于」入口（展示版本与 MIT 许可/版权）
+        # 右侧：版本号 + 「关于」入口（展示版本与许可证/版权）
         ttk.Button(
             title_row, text="关于", style="TButton", command=self._show_about
         ).pack(side="right")

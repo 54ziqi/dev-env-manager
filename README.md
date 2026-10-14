@@ -3,7 +3,7 @@
 > Windows 多版本开发环境管理器 —— 图形化下载、安装、切换 **Java / Node.js / Python / PHP / Maven / MySQL / Redis**，并为 MySQL / Redis 提供多实例服务化管理。
 
 - **开发者**：子柒
-- **许可证**：[MIT](./LICENSE)
+- **许可证**：[非商业使用许可证](./LICENSE)
 - **平台**：Windows 10 / 11（x64）
 - **版本**：1.0.0
 - **技术栈**：Python 3（仅标准库 + tkinter）· PyInstaller · NSIS · Authenticode 签名
@@ -131,6 +131,6 @@ D:\环境管理\data\
 
 ## 📝 开源许可
 
-本项目基于 [MIT License](./LICENSE) 开源。
+本项目基于 [非商业使用许可证](./LICENSE) 开源：**允许研究和自用，禁止商业化使用**。如需商用，请先联系版权人获取商业授权。
 
 © 2026 子柒
