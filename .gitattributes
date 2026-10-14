@@ -1,0 +1,17 @@
+# ============================================================
+# GitHub Linguist 语言统计配置
+# 用于仓库页 "Languages" 的语言占比分析。
+# 参考：https://github.com/github/linguist
+# ============================================================
+
+# Windows 批处理 shim 模板：识别为 Batch，避免被误判为 Smarty 等模板语言
+shim_templates/*.tpl     linguist-language=Batch
+
+# NSIS 安装脚本（installer/DevBox.nsi）属于项目真实源码，计入 NSIS 统计
+installer/*.nsi          linguist-detectable
+
+# 发布产物（安装包 / 压缩包）与二进制资源不计入语言统计
+release/                 linguist-vendored
+*.exe                    linguist-vendored
+*.zip                    linguist-vendored
+*.ico                    linguist-vendored
