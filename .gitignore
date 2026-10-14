@@ -1,0 +1,61 @@
+# ============================================================
+# DevBox .gitignore
+# 说明：仅发布「应用源码 + 测试 + 文档 + 版本化安装包」。
+#       反编译/反调试防护、签名私钥与打包工具链一律不上传。
+# ============================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- 反逆向 / 反调试（不外传）----
+runtime_hook.py
+DevBox.spec
+
+# ---- 签名私钥与证书（绝不上传）----
+signing/
+tools/authsign.py
+*.key.pem
+*.pfx
+*.p12
+*.cer
+
+# ---- 打包工具链 / 临时环境 / 探测脚本 ----
+.build_tools/
+.build_probe/
+.build_staged/
+.build_pyarmor/
+.build_pyarmor_home/
+.build_pyarmor_test/
+.build_pyarmor_test2/
+_nsi_staging/
+build/
+
+# ---- 构建产物（发布包统一放 release/，dist 不入库）----
+dist/
+
+# ---- 日志 ----
+*.log
+
+# ---- IDE / 操作系统 ----
+.trae/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# ---- 任何令牌/密钥文件（防误提交）----
+*.token
+.env
+
+# ---- 测试产物 / 临时文件 ----
+测试截图/
+_dl_start.txt
+*.tmp
+
+# ---- 本地设计文档（Word），不入库 ----
+*.docx
